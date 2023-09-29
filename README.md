@@ -1,5 +1,5 @@
-# **The Committers**
-We Commit and Git it done
+# **Hard Working Team**
+We done early.
 
 ## **Isaac Bilyea: TM1**
 
@@ -11,6 +11,17 @@ We Commit and Git it done
 
 
 ![Bear drinking Boba](images/bilyea_bear.jpg)
+
+## **Qiao-Yi Chu: TM2**
+
+**Background:** Taiwanese
+
+**Hobbies:** Sleep, Eating, Travel
+
+**Likes:** Japanese culture, cats, chocolate, bubble tea
+
+
+![Bear drinking Boba](images/bubble_tea.png)
 
 ## Contributing
 
