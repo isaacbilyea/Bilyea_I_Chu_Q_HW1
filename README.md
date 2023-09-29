@@ -10,7 +10,7 @@ We done early.
 **Likes:** Anime, Dogs, Peanut Butter, Puzzles
 
 
-![Bear drinking Boba](images/bilyea_bear.jpg)
+![Bear drinking Boba](images/bilyea_bear.JPG)
 
 ## **Qiao-Yi Chu: TM2**
 
@@ -21,7 +21,7 @@ We done early.
 **Likes:** Japanese culture, cats, chocolate, bubble tea
 
 
-![Bear drinking Boba](images/bubble_tea.png)
+![Bubble Tea](images/bubble_tea.png)
 
 ## Contributing
 
